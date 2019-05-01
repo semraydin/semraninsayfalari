@@ -38,4 +38,4 @@ spec:
         - name: VERSION
           value: "v1"
       imagePullSecrets:
-      - name: docker-depo-pass 
+      - name: docker-depo-pass-semraninsayfalari
