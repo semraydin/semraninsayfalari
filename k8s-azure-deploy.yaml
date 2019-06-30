@@ -32,7 +32,7 @@ spec:
     spec:
       containers:
       - name: semraninsayfalari
-        image: dockerdepo.azurecr.io/semraydin/semraninsayfalari:#{Build.BuildId}#
+        image: dockerdepo.azurecr.io/semraydin/semraninsayfalari:latest
         imagePullPolicy: Always
         env:
         - name: VERSION
