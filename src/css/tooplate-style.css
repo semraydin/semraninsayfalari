@@ -866,6 +866,40 @@ a.active:after {
 }
 
 
+/* Template Style */
+
+.template {
+  background-color: #343e55;
+  padding-top: 100px;
+}
+
+.template .image img {
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  overflow: hidden;
+}
+
+
+
+
+.template  h2 {
+  font-size: 20px;
+  margin-top: 25px;
+  color: #fff;
+  line-height: 30px;
+  font-weight: 400;
+}
+.template .text content {
+  font-size: 14px;
+  margin-top: 10px;
+  color: #fff;
+  line-height: 30px;
+  font-weight: 400;
+   margin-bottom: 10px;
+}
+
+
 /* Right & Left Image Post Style */
 
 .left-right-image {
