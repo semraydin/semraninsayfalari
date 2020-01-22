@@ -36,16 +36,20 @@ Supports Thumbs: true
 }
 
 .layer-1-1 h2 {
-  color: #fff;
-  font-size: 32px;
+
   font-weight: 700;
+  color: #fff;
+  font-size: 34px;
+  font-family: 'Kaushan Script', cursive;
+
 }
 
 .layer-1-2 h1 {
+
   color: #fff;
-  font-size: 50px;
+  font-size:90px;
   font-weight: 700;
-  line-height: 60px;
+  line-height: 90px;
 }
 
 .layer-1-3 {
