@@ -140,7 +140,7 @@ a {
 }
 
 a:hover {
-    color: #3EC1D5;
+    color: #24a8bd;
     text-decoration: none;
 }
 
@@ -165,14 +165,14 @@ body {
 .back-to-top {
     position: fixed;
     display: none;
-    background: #3EC1D5;
+    background: #24a8bd;
     color: #fff;
     padding: 6px 12px 9px 12px;
     font-size: 16px;
     border-radius: 2px;
     right: 15px;
     bottom: 15px;
-    transition: background 0.5s;
+    transition: 0.5s;
 }
 
 @media (max-width: 768px) {
@@ -182,13 +182,13 @@ body {
 }
 
 .back-to-top:focus {
-    background: #3EC1D5;
+    background: #24a8bd;
     color: #fff;
     outline: none;
 }
 
 .back-to-top:hover {
-    background: #3cd6ed;
+    background: #24a8bd;
     color: #fff;
 }
 
@@ -229,12 +229,12 @@ div#preloader {
 }
 
 ::-moz-selection {
-    background: #3EC1D5;
+    background: #24a8bd;
     text-shadow: none;
 }
 
 ::selection {
-    background: #3EC1D5;
+    background: #24a8bd;
     text-shadow: none;
 }
 
@@ -343,7 +343,7 @@ div#preloader {
 }
 
 .main-menu ul.navbar-nav li a:hover {
-    color: #3EC1D5;
+    color: #24a8bd;
 }
 
 .navbar {
@@ -449,7 +449,7 @@ div#preloader {
 }
 
 .sticky-logo h1 span {
-    color: #3ec1d5;
+    color: #24a8bd;
 }
 
 .stick .main-menu ul.navbar-nav li.active>a::after {
@@ -531,7 +531,7 @@ div#preloader {
 }
 
 .single-well ul li i {
-    color: #3EC1D5;
+    color: #24a8bd;
     padding-right: 10px;
     font-size: 12px;
 }
@@ -566,7 +566,7 @@ div#preloader {
 
 .services-details:hover h4,
 .services-details:hover .services-icon {
-    color: #3EC1D5;
+    color: #24a8bd;
 }
 
 .row.second-row {
@@ -669,7 +669,7 @@ div#preloader {
 
 .faq-details h4.check-title a.active,
 .faq-details a.active span.acc-icons::before {
-    color: #3EC1D5;
+    color: #24a8bd;
 }
 
 .faq-details a.active span.acc-icons::before {
@@ -737,7 +737,7 @@ div#preloader {
 .tab-menu ul li.hover a,
 .tab-menu ul li.focus a {
     border-bottom: 1px solid #fff;
-    color: #3EC1D5 !important;
+    color: #24a8bd !important;
 }
 
 .tab-menu .nav-tabs {
@@ -833,7 +833,7 @@ div#preloader {
 }
 
 .suscribe-input button {
-    background: #3ec1d5 none repeat scroll 0 0;
+    background: #24a8bd none repeat scroll 0 0;
     border: medium none;
     border-radius: 0 20px 20px 0;
     color: #fff;
@@ -932,7 +932,7 @@ div#preloader {
 }
 
 .email-news .email_button>button:hover {
-    background: #3EC1D5;
+    background: #24a8bd;
     border: 1px solid #fff;
     color: #fff;
 }
@@ -942,7 +942,7 @@ div#preloader {
 }
 
 .team-left-icon ul li a:hover {
-    color: #3EC1D5;
+    color: #24a8bd;
     background: #fff;
     border: 2px solid #fff;
 }
@@ -1019,8 +1019,8 @@ div#preloader {
 
 .team-social-icon ul li a:hover {
     color: #fff;
-    border: 1px solid #3EC1D5;
-    background: #3EC1D5;
+    border: 1px solid #24a8bd;
+    background: #24a8bd;
 }
 
 .team-content {
@@ -1069,7 +1069,7 @@ div#preloader {
 }
 
 .work-left-text {
-    background: #3EC1D5 none repeat scroll 0 0;
+    background: #24a8bd none repeat scroll 0 0;
 }
 
 .work-left-text {
@@ -1325,7 +1325,7 @@ div#preloader {
     position: absolute;
     right: 50px;
     top: 12px;
-    color: #3EC1D5;
+    color: #24a8bd;
 }
 
 .pri_table_list button {
@@ -1362,7 +1362,7 @@ div#preloader {
 }
 
 .saleon {
-    background: #3EC1D5 none repeat scroll 0 0;
+    background: ##24a8bd none repeat scroll 0 0;
     color: #fff;
     font-size: 13px;
     font-weight: 700;
@@ -1391,8 +1391,8 @@ div#preloader {
 }
 
 .active>button {
-    background: #3EC1D5 none repeat scroll 0 0;
-    border: 1px solid #3EC1D5;
+    background: #24a8bd none repeat scroll 0 0;
+    border: 1px solid #24a8bd;
     color: #fff;
     transition: 0.4s;
 }
@@ -1517,7 +1517,7 @@ div#preloader {
 }
 
 .guest-rev>a {
-    color: #3EC1D5;
+    color: #24a8bd;
     font-size: 14px;
 }
 
@@ -1540,7 +1540,7 @@ div#preloader {
 
 .blog-text h4 {
     color: #444;
-    margin-bottom: 15px;
+    margin-bottom: 30px;
 }
 
 .blog-btn {
@@ -1637,7 +1637,7 @@ div#preloader {
 }
 
 .single-blog .ready-btn:hover {
-    border: 1px solid #3EC1D5;
+    border: 1px solid #24a8bd;
     color: #fff;
 }
 
@@ -1647,7 +1647,7 @@ div#preloader {
 --------------------------------*/
 
 .suscribe-area {
-    background: #3EC1D5 none repeat scroll 0 0;
+    background: #24a8bd none repeat scroll 0 0;
     padding: 30px 0;
 }
 
@@ -1669,7 +1669,7 @@ div#preloader {
 .sus-btn {
     background: #fff none repeat scroll 0 0;
     border: 2px solid #fff;
-    color: #3EC1D5;
+    color: #24a8bd;
     display: inline-block;
     font-size: 16px;
     font-weight: 700;
@@ -1681,7 +1681,7 @@ div#preloader {
 }
 
 .sus-btn:hover {
-    background: #3EC1D5 none repeat scroll 0 0;
+    background: #24a8bd none repeat scroll 0 0;
     border: 2px solid #fff;
     color: #fff;
 }
@@ -1844,7 +1844,7 @@ div#preloader {
 }
 
 .footer-logo h2 span {
-    color: #3ec1d5;
+    color: #023e47;
 }
 
 .footer-icons ul li {
@@ -1890,8 +1890,8 @@ div#preloader {
 
 .popular-tag ul li a:hover,
 .footer-icons ul li a:hover {
-    background: #3EC1D5;
-    border: 1px solid #3EC1D5;
+    background: #014b57;
+    border: 1px solid #014b57;
     color: #fff;
 }
 
