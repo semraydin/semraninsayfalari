@@ -85,7 +85,7 @@ img {
 
 p {
     margin: 0 0 15px;
-    color: #444;
+    color: rgb(44, 44, 44);
 }
 
 h1,
@@ -974,7 +974,6 @@ div#preloader {
 
 .team-img {
     position: relative;
-    width: %100;
 }
 
 .team-img>a {
